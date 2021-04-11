@@ -46,5 +46,7 @@ int main()
             printf("\n");
         }
     }
+    
+    printf("ciao\n");
     return 0;
 }
